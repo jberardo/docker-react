@@ -12,7 +12,7 @@ class App extends Component {
         </header>
         
         <h1 className="App-intro">
-          Hey there!
+          Hey there! In Feature Branch!
         </h1>
       </div>
     );
